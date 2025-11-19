@@ -1,0 +1,8 @@
+body.oscuro {
+  background-color: #222;
+  color: #eee;
+}
+.error {
+  color: red;
+  font-size: 0.9rem;
+}
