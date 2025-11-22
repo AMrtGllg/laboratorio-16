@@ -6,3 +6,10 @@ body.oscuro {
   color: red;
   font-size: 0.9rem;
 }
+
+.cuadrado {
+  width: 100px; height: 100px; background: #3fa; position: relative; transition: transform 0.7s;
+}
+.mover {
+  transform: translateX(300px);
+}
